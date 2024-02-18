@@ -1,4 +1,4 @@
-name: 結音ニコのページ
+name: Publish Retype powered website to GitHub Pages
 on:
   workflow_dispatch:
   push:
