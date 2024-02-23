@@ -10,6 +10,6 @@ order: 1000000000
 よろしくお願いします！
 
 # SNS一覧
-[YouTube](https://www.youtube.com/channel/UCGywLQU_PXy3H-MlzF_v_VQ){:target="_blank"}
-[niconico](https://www.nicovideo.jp/user/97486326/){:target="_blank"}
-[X/Twitter](https://x.com/niko_musubine){:target="_blank"}
+[YouTube](https://www.youtube.com/channel/UCGywLQU_PXy3H-MlzF_v_VQ){:target="_blank"}<br>
+[niconico](https://www.nicovideo.jp/user/97486326/){:target="_blank"}<br>
+[X/Twitter](https://x.com/niko_musubine){:target="_blank"}<br>
