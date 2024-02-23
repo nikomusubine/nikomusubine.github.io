@@ -19,8 +19,8 @@ links:
   target: blank
 
 - text: niconico
-  link: <png xmlns="https://github.com/nikomusubine/nikomusubine.github.io/blob/main/images/202302_niconicosymbol.png" width="24" height="24" viewBox="0 0 24 24"></png>
-  icon: 
+  link: https://www.nicovideo.jp/user/97486326/
+  icon: <png xmlns="https://github.com/nikomusubine/nikomusubine.github.io/blob/main/images/202302_niconicosymbol.png" width="24" height="24" viewBox="0 0 24 24"></png>
   target: blank
 
 footer:
