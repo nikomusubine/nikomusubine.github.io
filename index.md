@@ -11,7 +11,7 @@ order: 1000000000
 
 # SNS一覧
 
-[YouTube](https://www.youtube.com/channel/UCGywLQU_PXy3H-MlzF_v_VQ){:target="_blank"}<br>
+[YouTube](https://www.youtube.com/channel/UCGywLQU_PXy3H-MlzF_v_VQ)<br>
 <!--
 [niconico](https://www.nicovideo.jp/user/97486326/){:target="_blank"}<br>
 [Twitter](https://x.com/niko_musubine){:target="_blank"}<br>
