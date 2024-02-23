@@ -1,6 +1,6 @@
 ---
 label: 結音ニコのページ
-icon:
+icon: icon-home
 order: 1000000000
 ---
 ![](./header.png)　
