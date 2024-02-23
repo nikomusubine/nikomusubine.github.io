@@ -1,5 +1,5 @@
 ---
-title: 楽曲
+title: 投稿楽曲
 icon: 
 order: 2
 ---
