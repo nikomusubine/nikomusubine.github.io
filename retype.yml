@@ -20,7 +20,7 @@ links:
 
 - text: niconico
   link: https://www.nicovideo.jp/user/97486326/
-  icon: <img "/images/niconicosymbol.png" width="24" height="24" viewBox="0 0 24 24"></png>
+  icon: <img "images/niconicosymbol.png" width="24" height="24" viewBox="0 0 24 24"></png>
   target: blank
 
 footer:
