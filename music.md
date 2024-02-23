@@ -1,6 +1,6 @@
 ---
 title: 楽曲
-icon: music
+icon: 
 order: 2
 ---
 # 投稿楽曲
