@@ -5,8 +5,8 @@ url:
 branding:
   title: 結音ニコ
   label: 
-  logo: 
-  favicon:  ./header.png
+  logo: ./header.png
+  favicon: 
 links:
 - text: YouTube
   link: https://www.youtube.com/@niko_musubine
