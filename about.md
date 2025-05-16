@@ -10,7 +10,9 @@ order: 1
 ![](./niko.png)
 
 ロックが好きなボカロP。CGで動画を作る。
+L*tlinkなどを使わずGitHubでWebページを公開することに快感を覚える変人である。
 
+### 略歴
 2022年1月「白紙の夢」でボカロPデビュー。\
 2022年12月に「独争」を公開。\
 2023年3月 The VOCALOID Collectionに「Leopard Plant」を投稿。\
