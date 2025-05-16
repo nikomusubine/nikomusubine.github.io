@@ -20,6 +20,8 @@ L\*tlinkやL\*nktreeなどを使わずGitHubでWebページを公開すること
 
 2023年3月 The VOCALOID Collectionに「Leopard Plant」を投稿。
 
+2023年7月 きゃんばす氏のコンピ「ディレクトリ」に参加。「Leopard Plant」が収録される。
+
 2023年8月 The VOCALOID Collectionに「いつか『ただいま』って言うから」を投稿。活動休止を発表。
 
 とりあえず曲を聴いてください
